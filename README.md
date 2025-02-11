@@ -1,7 +1,7 @@
 # VibroBot
 
 Software and hardware materials for VibroBot  
-(For the manuscript "VibroBot: A Lightweight and Wirelessly Programmable Vibration Bot for Haptic Guidance" published on IEEE Robotics and Automation Letters 2024, 
+(For the manuscript "VibroBot: A Lightweight and Wirelessly Programmable Vibration Bot for Haptic Guidance" published on IEEE Robotics and Automation Letters 2024,  
 https://ieeexplore.ieee.org/abstract/document/10720432/)
 
 Hardware: sch and pcb fiels of MCU board and Power board for VibroBot. 
